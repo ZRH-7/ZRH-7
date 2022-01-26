@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ZRH.
 - 👀 I’m interested in challanging myself.
-- 🌱 I’m currently learning how to make my own blog which is used for communication an having fun iin futures by github.
+- 🌱 I’m currently learning how to make my own blog which is used for communication an having fun in futures by github.
 - 💞️ I’m looking to collaborate on other's interesting idea.
 
 <!---
